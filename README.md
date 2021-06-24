@@ -1,2 +1,2 @@
-# hangman-python
-Simple command line hangman made in Python
+# Hangman in Python
+Works in CMD and Powershell
